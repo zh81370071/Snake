@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Snake", "Snake\Snake.vcxproj", "{221F40B8-2402-4904-8D4E-343D8244A87D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{221F40B8-2402-4904-8D4E-343D8244A87D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{221F40B8-2402-4904-8D4E-343D8244A87D}.Debug|Win32.Build.0 = Debug|Win32
+		{221F40B8-2402-4904-8D4E-343D8244A87D}.Release|Win32.ActiveCfg = Release|Win32
+		{221F40B8-2402-4904-8D4E-343D8244A87D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
